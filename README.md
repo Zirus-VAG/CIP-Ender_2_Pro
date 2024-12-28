@@ -25,6 +25,7 @@
 ## Content
 
  <b> Purchased Parts:
+ <br />
  	- Standard Ender 2 Pro
  	- Prite Extruder Pro Kit (incl. Carriage and harness)
   	- CR Touch
@@ -33,7 +34,7 @@
     	- Powersuppler update: tbc
 
 <b> Printed Parts:
-
+<br />
 	- xxx
 	- 
 
