@@ -2,7 +2,7 @@
   <p align="center">
   <img width="128px" src="Images/Source/xxx" />
   </p>
-        <h1 align="center"><b>CIP - Ender 2 Pror</b></h1>
+        <h1 align="center"><b>CIP - Ender 2 Pro</b></h1>
 	      <p align="center"> <strong>
 	          	What does CIP mean: Creality in Perfection
               We love the Creality printers but sometimes you feel they are just 90% finised - so we redo the 90% and adding the messing "15%"
