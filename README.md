@@ -26,7 +26,8 @@
 
  <b> Purchased Parts:
  <br />
- 	- Standard Ender 2 Pro
+ 	<i>
+  	- Standard Ender 2 Pro
  	- Prite Extruder Pro Kit (incl. Carriage and harness)
   	- CR Touch
    	- Nebula Pad Kit
@@ -35,10 +36,11 @@
 
 <b> Printed Parts:
 <br />
+	<i>
 	- xxx
 	- 
 
-      
+</a>      
 
 ## Contact
 
