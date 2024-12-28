@@ -25,7 +25,16 @@
   </p>
 </p>
 
-## Content
+## Contents
+
+- [Modifications](#Modifications)
+- [Contact](#contact)
+- [Credits](#credits)
+- [Support](#support)
+- [License](#license)
+
+
+## Modificaions
 
  <b> Purchased Parts:
  <br />
