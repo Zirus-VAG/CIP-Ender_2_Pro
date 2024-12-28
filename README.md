@@ -30,12 +30,12 @@
  <b> Purchased Parts:
  <br />
  	<i>
-  	- Standard Ender 2 Pro
- 	- Prite Extruder Pro Kit (incl. Carriage and harness)
-  	- CR Touch
-   	- Nebula Pad Kit
-   	- BTT SKR E3 V3
-    	- Powersuppler update: tbc
+  	<br>- Standard Ender 2 Pro
+ 	<br>- Prite Extruder Pro Kit (incl. Carriage and harness)
+  	<br>- CR Touch
+   	<br>- Nebula Pad Kit
+   	<br>- BTT SKR E3 V3
+    	<br>- Powersuppler update: tbc
 
 <b> Printed Parts:
 <br />
