@@ -26,7 +26,7 @@
 
 ## Credits
 
- 	Creality for giving us a very nice platform to play with.
+ 	Creality for giving us a very nice tiny platform to play with.
 
 ## Support
 
