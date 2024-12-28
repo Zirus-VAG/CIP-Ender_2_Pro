@@ -11,16 +11,19 @@
 			<br />
 	      		So we redo the 90% and adding the messing "15%"
 </strong>
-    <br />
-    <br />
+    <br>
+    <br>
     <i>~ This project intends to become a community-driven project, not a brand. ~
-    <br /> 
-    <br />
+    <br> 
+    <br>
     Preview: 
-    <br />
+    <br>
     </i>
        <img  src="Images/xxx.png" />  </a>
     <br />
+</a>
+  </p>
+</p>
 
 ## Content
 
