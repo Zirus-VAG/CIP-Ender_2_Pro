@@ -5,8 +5,7 @@
         <h1 align="center"><b>CIP - Ender 2 Pro</b></h1>
 	      <p align="center"> <strong>
 	          	What does CIP mean: Creality in Perfection
-		      
-			<p align="center"> <strong>
+			<br />
         		We love the Creality printers but sometimes you feel they are just 90% finised 
 	      		So we redo the 90% and adding the messing "15%"
 </strong>
