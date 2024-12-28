@@ -1,6 +1,6 @@
 <p align="center">
   <p align="center">
-  <img width="128px" src="Images/Source/xxx" />
+  <img width="128px" src="Images/Creality_Logo_2024_CIP.png" />
   </p>
         <h1 align="center"><b>CIP - Ender 2 Pro</b></h1>
 	      <p align="center"> <strong>
