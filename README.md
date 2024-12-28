@@ -6,7 +6,9 @@
 	      <p align="center"> <strong>
 	          	What does CIP mean: Creality in Perfection
 			<br />
-        		We love the Creality printers but sometimes you feel they are just 90% finised 
+		      <p align="center">
+        		We love the Creality printers but sometimes you feel they are just 90% finised
+			<br />
 	      		So we redo the 90% and adding the messing "15%"
 </strong>
     <br />
