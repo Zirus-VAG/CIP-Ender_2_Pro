@@ -46,13 +46,13 @@ Status: **V0.1** [Work In Progress]
  <b> Purchased Parts:
  <br />
  
-  	<br><i>- Standard Ender 2 Pro
- 	<br><i>- Prite Extruder Pro Kit (incl. Carriage and harness)
-  	<br><i>- CR Touch
-   	<br><i>- Nebula Pad Kit
-   	<br><i>- BTT SKR E3 V3
-    	<br><i>- Powersuppler update: tbc
-        <br><i>- Liniar Rails: tbc
+  	<br>- Standard Ender 2 Pro
+ 	<br>- Prite Extruder Pro Kit (incl. Carriage and harness)
+  	<br>- CR Touch
+   	<br>- Nebula Pad Kit
+   	<br>- BTT SKR E3 V3
+    	<br>- Powersuppler update: tbc
+        <br>- Liniar Rails: tbc
      
 
 <b> Printed Parts:
