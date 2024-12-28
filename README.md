@@ -22,6 +22,23 @@
        <img  src="Images/xxx.png" />  </a>
     <br />
 
+## Content
+
+ <b> Purchased Parts:
+ 	- Standard Ender 2 Pro
+ 	- Prite Extruder Pro Kit (incl. Carriage and harness)
+  	- CR Touch
+   	- Nebula Pad Kit
+   	- BTT SKR E3 V3
+    	- Powersuppler update: tbc
+
+<b> Printed Parts:
+
+	- xxx
+	- 
+
+      
+
 ## Contact
 
 	Zirus.VAG@gmail.com
