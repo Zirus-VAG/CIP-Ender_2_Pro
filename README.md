@@ -19,7 +19,7 @@
     Preview: 
     <br>
     </i>
-       <img  src="Images/xxx.png" />  </a>
+       <img  src="Images/Preview_CIP.png" />  </a>
     <br />
 </a>
   </p>
