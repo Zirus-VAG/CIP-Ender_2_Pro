@@ -16,10 +16,10 @@
     <i>~ This project intends to become a community-driven project, not a brand. ~
     <br /> 
     <br />
-    Join us: 
+    Preview: 
     <br />
     </i>
-      <a href="https://discord.gg/xxx"> <img  src="Images/xxx.png" />  </a>
+       <img  src="Images/xxx.png" />  </a>
     <br />
 
 ## Contact
