@@ -35,7 +35,7 @@ Status: **V0.1** [Work In Progress]
 ## Contents
 
 - [Modifications](#Modifications)
-- [Print Parameters](#Print Parameters)
+- [Print Parameters](#Print_Parameters)
 - [Contact](#contact)
 - [Credits](#credits)
 - [Support](#support)
