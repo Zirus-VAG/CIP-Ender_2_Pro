@@ -73,8 +73,8 @@ Status: **V0.1** [Work In Progress]
  	Nozzel: 	0.4mm
   	Layerhight:	0.2mm
    	Outerwalls:	4
-    	Top & Bottom:	4
-     	Infill:		40%
+    Top & Bottom:	4
+    Infill:		40%
       
 
 ## Contact
